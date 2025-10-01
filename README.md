@@ -5,6 +5,7 @@
 ---
 
 [Dicionário de dados (SINAN - AGRAVO: DRT Transtorno Mental)](https://app.wiki.saude.es.gov.br/vigilancia/microdados/dic_dados_drt_transtornosmentais_v5.pdf)
+  |_ Se refere aos arquivos com o padrão: "MENTBRyy.csv"
 
 ---
 
