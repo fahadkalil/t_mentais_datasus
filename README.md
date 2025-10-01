@@ -12,7 +12,7 @@
 
 ### Como os arquivos originais do SINAN foram obtidos (DATASUS):
 
-1) Baixar o software FileZilla (https://download.filezilla-project.org/client/FileZilla_3.62.0_win64_sponsored2-setup.exe)
+1) Baixar o software [FileZilla](https://filezilla-project.org/download.php?platform=win64)
 
 2) Abrir o Filezilla e na parte superior do software onde tem uma caixa de texto "Host:", digitar: ftp.datasus.gov.br
 
