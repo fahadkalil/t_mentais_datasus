@@ -1,10 +1,6 @@
 # t_mentais_datasus
 
 Repositório contendo *datasets* com dados públicos do Brasil sobre Transtornos Mentais no Trabalho.
-  
-  ╰ organizado por [@fahadkalil](https://github.com/fahadkalil) | [@Luis17819](https://github.com/Luis17819)
-
----
 
 ### Informações gerais
 
@@ -20,7 +16,7 @@ Repositório contendo *datasets* com dados públicos do Brasil sobre Transtornos
 
 1) Baixar o software [FileZilla](https://filezilla-project.org/download.php?platform=win64)
 
-2) Abrir o Filezilla e na parte superior do software onde tem uma caixa de texto "Host:", digitar: ftp.datasus.gov.br
+2) Abrir o Filezilla e na parte superior do software onde tem uma caixa de texto "Host:", digitar: ``ftp.datasus.gov.br``
 
 3) O Filezilla apresenta a tela dividida em 2 partes!
 
@@ -30,10 +26,15 @@ Repositório contendo *datasets* com dados públicos do Brasil sobre Transtornos
 
 4) Os dados do SINAN estão na pasta: dissemin / publicos / SINAN / DADOS / PRELIM
     
-5) Os arquivos que iniciam com “MENTBRyy” contém os dados anuais sobre Transtornos Mentais no trabalho, entretanto estão em um formato especial (.DBC) que demanda o uso de outro software.
-    Exemplo: MENTBR19 -> Transtornos Mentais no Trabalho no ano de 2019.
+5) Os arquivos que iniciam com "``MENTBRyy``" contém os dados anuais sobre Transtornos Mentais no trabalho, entretanto estão em um formato especial (.DBC) que demanda o uso de outro software.
 
-7) Para baixar, bastaria selecionar os arquivos que estão na tela da direita e clicar com o botão direito do mouse e selecionar 'Download'.
+   Exemplo: ``MENTBR19.dbc`` -> Transtornos Mentais no Trabalho no ano de 2019.
 
-8) Para visualizar o arquivo .DBC deverá baixar antes o programa TabWin.. disponível pelo mesmo acesso descrito anterior, mas na pasta: /dissemin/publicos/TABWIN/Programa e então baixar o arquivo "Instalador-TABWIN415.zip".
+6) Para baixar, bastaria selecionar os arquivos que estão na tela da direita e clicar com o botão direito do mouse e selecionar 'Download'.
+
+7) Para visualizar o arquivo .DBC deverá baixar antes o programa TabWin.. disponível pelo mesmo acesso descrito anterior, mas na pasta: /dissemin/publicos/TABWIN/Programa e então baixar o arquivo "``Instalador-TABWIN415.zip``".
 que você deseja conferir.
+
+---
+
+> Organizado por [@fahadkalil](https://github.com/fahadkalil) | [@Luis17819](https://github.com/Luis17819)
