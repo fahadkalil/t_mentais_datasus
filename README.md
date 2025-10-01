@@ -1,6 +1,6 @@
 # t_mentais_datasus
 
-> Repositório contendo *datasets* com dados públicos sobre Transtornos Mentais no Trabalho
+> Repositório contendo *datasets* com dados públicos do Brasil sobre Transtornos Mentais no Trabalho 
 
 ---
 
