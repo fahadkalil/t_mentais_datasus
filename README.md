@@ -1,14 +1,18 @@
 # t_mentais_datasus
 
-> Repositório contendo *datasets* com dados públicos do Brasil sobre Transtornos Mentais no Trabalho 
+Repositório contendo *datasets* com dados públicos do Brasil sobre Transtornos Mentais no Trabalho.
+  
+  ╰ organizado por [@fahadkalil](https://github.com/fahadkalil) | [@Luis17819](https://github.com/Luis17819)
 
 ---
+
+### Informações gerais
 
 [Dicionário de dados (SINAN - AGRAVO: DRT Transtorno Mental)](https://app.wiki.saude.es.gov.br/vigilancia/microdados/dic_dados_drt_transtornosmentais_v5.pdf)
   
   ╰ Se refere aos arquivos com o padrão: "MENTBRyy.csv", sendo estes obtidos da pasta 'PRELIM' que representa "Arquivos dissemináveis para tabulação do Sistema de agravos de notificação compulsória - Dados preliminares".
 
-  Esses dados também podem ser obtidos via web pela área de ['Arquivos de Dados'](http://siab.datasus.gov.br/DATASUS/index.php?area=0901) do Datasus.
+  Tais dados estão disponíveis via web na área de ['Arquivos de Dados'](http://siab.datasus.gov.br/DATASUS/index.php?area=0901) do Datasus ou via FTP, conforme indicado na seção seguinte.
 
 ---
 
