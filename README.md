@@ -6,7 +6,9 @@
 
 [Dicionário de dados (SINAN - AGRAVO: DRT Transtorno Mental)](https://app.wiki.saude.es.gov.br/vigilancia/microdados/dic_dados_drt_transtornosmentais_v5.pdf)
   
-  ╰ Se refere aos arquivos com o padrão: "MENTBRyy.csv"
+  ╰ Se refere aos arquivos com o padrão: "MENTBRyy.csv", sendo estes obtidos da pasta 'PRELIM' que representa "Arquivos dissemináveis para tabulação do Sistema de agravos de notificação compulsória - Dados preliminares".
+
+  Esses dados também podem ser obtidos via web pela área de ['Arquivos de Dados'](http://siab.datasus.gov.br/DATASUS/index.php?area=0901) do Datasus.
 
 ---
 
@@ -22,8 +24,8 @@
 
    - Na direita, você navega pelas pastas disponíveis no servidor do DataSus [para volta para uma pasta anterior.. você deverá clicar na 1a pasta que aparecer (..) ]
 
-4) Os dados do SINAN estão na pasta: dissemin / publicos / SINAN / DADOS / FINAIS 
-
+4) Os dados do SINAN estão na pasta: dissemin / publicos / SINAN / DADOS / PRELIM
+    
 5) Os arquivos que iniciam com “MENTBRyy” contém os dados anuais sobre Transtornos Mentais no trabalho, entretanto estão em um formato especial (.DBC) que demanda o uso de outro software.
     Exemplo: MENTBR19 -> Transtornos Mentais no Trabalho no ano de 2019.
 
